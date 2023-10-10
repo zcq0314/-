@@ -21,3 +21,11 @@
 * Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation[[PDF](https://aclanthology.org/2022.acl-long.142.pdf)][[Code](https://github.com/microsoft/ContextualSP)]
 
 * ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection[[PDF](https://aclanthology.org/2022.acl-long.234.pdf)][[Code](https://github.com/microsoft/ToxiGen)]
+
+### 2021
+
+
+## 关于语言模型的攻防
+### 2021
+* BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks[[PDF](https://arxiv.org/pdf/2106.01452.pdf)]
+* Defending Pre-trained Language Models from Adversarial Word Substitutions Without Performance Sacrifice[[PDF](https://arxiv.org/pdf/2105.14553.pdf)]
