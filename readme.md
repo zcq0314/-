@@ -28,7 +28,8 @@
 * SHIELD: Defending Textual Neural Networks against Multiple Black-Box[[PDF](https://aclanthology.org/2022.acl-long.459.pdf)][[Code](https://github.com/lethaiq/shield-defend-adversarial-texts)]
 
 * Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation[[PDF](https://aclanthology.org/2022.acl-long.142.pdf)][[Code](https://github.com/microsoft/ContextualSP)]
-
+#### EMNLP
+* Learning Robust Representations for Continual Relation Extraction via Adversarial Class Augmentation[[PDF](https://arxiv.org/pdf/2210.04497)][[Code]()]
 ### 2021
 * Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder[[PDF](https://arxiv.org/pdf/2109.06536v1.pdf)]
 * Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble
