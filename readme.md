@@ -63,7 +63,18 @@
 * Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models
 
 * OutFlip: Generating Examples for Unknown Intent Detection with Natural Language Attack
-
+#### EMNLP
+* Achieving Model Robustness through Discrete Adversarial Training[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
+* Multi-granularity Textual Adversarial Attack with Behavior Cloning[[PDF](https://arxiv.org/pdf/2109.04367.pdf)]
+* （评估神经语言模型对输入干扰的鲁棒性）Evaluating the Robustness of Neural Language Models to Input Perturbations[[PDF](https://arxiv.org/pdf/2109.04367.pdf)]
+* （针对跨语言知识图谱对齐的对抗性攻击）Adversarial Attack against Cross-lingual Knowledge Graph Alignment
+* （针对输入鲁棒性的基于特征的对抗元嵌入）FAME: Feature-Based Adversarial Meta-Embeddings for Robust Input Representations
+* （通过实例归因方法对知识图谱嵌入的对抗性攻击）Adversarial Attacks on Knowledge Graph Embeddings via Instance Gradient-based Adversarial Attacks against Text TransformersAttribution Methods
+* （黑盒环境中查询高效攻击的强大基线）A Strong Baseline for Query Efficient Attacks in a Black Box Setting
+* Gradient-based Adversarial Attacks against Text Transformers[[PDF](https://arxiv.org/pdf/2104.13733.pdf)]
+* Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution[[PDF](https://arxiv.org/pdf/2108.12777.pdf)]
+* On the Transferability of Adversarial Attacks against Neural Text Classifier[[PDF](https://arxiv.org/pdf/2011.08558.pdf)]
+* Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
 ## 鲁棒性提高公平性
 ### 2021
 * Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
