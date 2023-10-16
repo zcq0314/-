@@ -30,7 +30,7 @@
 * Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation[[PDF](https://aclanthology.org/2022.acl-long.142.pdf)][[Code](https://github.com/microsoft/ContextualSP)]
 #### EMNLP
 * Character-level White-Box Adversarial Attacks against Transformers via Attachable Subwords Substitution[[PDF](https://arxiv.org/pdf/2210.17004.pdf)][[Code](https://github.com/THU-BPM/CWBA)]
-*（双答案句子攻击问答模型） TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack[[PDF](https://arxiv.org/pdf/2210.15221.pdf)][[Code](https://github.com/caoyu-noob/TASA)]
+* （双答案句子攻击问答模型） TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack[[PDF](https://arxiv.org/pdf/2210.15221.pdf)][[Code](https://github.com/caoyu-noob/TASA)]
 * Textual Manifold-based Defense Against Natural Language Adversarial Examples[[PDF](https://arxiv.org/pdf/2211.02878.pdf)][[Code](https://github.com/dangne/tmd)]
 * Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP[[PDF](https://arxiv.org/pdf/2210.10683.pdf)]
 ### 2021
