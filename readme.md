@@ -1,7 +1,5 @@
+@[TOC]
 # ACL
-## nlp的可解释性与分析
-### 2023
-* Entity Tracking in Language Models
 
 ## 对抗攻击和鲁棒性
 ### 2023
@@ -81,6 +79,15 @@
 * Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution[[PDF](https://arxiv.org/pdf/2108.12777.pdf)]
 * On the Transferability of Adversarial Attacks against Neural Text Classifier[[PDF](https://arxiv.org/pdf/2011.08558.pdf)]
 * Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
+
+## 对抗攻击的应用
+### 2022
+#### NAACL
+* (一句话值一千美元：对推文的对抗性攻击傻瓜股票预测)A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
+* 
+## nlp的可解释性与分析
+### 2023
+* Entity Tracking in Language Models
 ## 鲁棒性提高公平性
 ### 2021
 * Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
