@@ -1,8 +1,7 @@
 
-# ACL
-
 ## 1、对抗攻击和鲁棒性
 #### 2023
+【ACL】
 * How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks[[PDF](https://arxiv.org/pdf/2305.15587.pdf)]
 
 * Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications[[PDF](https://arxiv.org/pdf/2305.06522.pdf)]
@@ -11,6 +10,7 @@
 * Contrastive Learning with Adversarial Examples for Alleviating Pathology of Language Model[[PDF](https://aclanthology.org/2023.acl-long.358.pdf)]
 
 #### 2022
+【ACL】
 * Adversarial Authorship Attribution for Deobfuscation[[PDF](https://aclanthology.org/2022.acl-long.509.pdf)][[Code](https://github.com/reginazhai/Authorship-Deobfuscation)]
 
 * Adversarial Soft Prompt Tuning for Cross-Domain Sentiment Analysis[[PDF](https://aclanthology.org/2022.acl-long.174.pdf)]
@@ -42,6 +42,7 @@
 * ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model[[PDF](https://aclanthology.org/2022.naacl-main.125.pdf)]
 
 #### 2021
+【ACL】
 * Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder[[PDF](https://arxiv.org/pdf/2109.06536v1.pdf)]
 * Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble
 
@@ -100,19 +101,24 @@
 * Residue-Based Natural Language Adversarial Attack Detection[[PDF](https://aclanthology.org/2022.naacl-main.281.pdf)]
 ## 4、nlp的可解释性与分析
 #### 2023
+【ACL】
 * Entity Tracking in Language Models
 ## 5、鲁棒性提高公平性
 #### 2021
+【ACL】
 * Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
 
 ## 中文
 #### 2021
+【ACL】
 * Correcting Chinese Spelling Errors with Phonetic Pre-training
 * Dynamic Connected Networks for Chinese Spelling Check
 ## 关于语言模型的攻防
 #### 2023
+【ACL】
 * Language model acceptability judgements are not always robust to context[[PDF]()]
 #### 2021
+【ACL】
 * BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks[[PDF](https://arxiv.org/pdf/2106.01452.pdf)]
 * Defending Pre-trained Language Models from Adversarial Word Substitutions Without Performance Sacrifice[[PDF](https://arxiv.org/pdf/2105.14553.pdf)]
 ## 优化器
