@@ -26,6 +26,7 @@
 * SHIELD: Defending Textual Neural Networks against Multiple Black-Box[[PDF](https://aclanthology.org/2022.acl-long.459.pdf)][[Code](https://github.com/lethaiq/shield-defend-adversarial-texts)]
 
 * Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation[[PDF](https://aclanthology.org/2022.acl-long.142.pdf)][[Code](https://github.com/microsoft/ContextualSP)]
+
 【EMNLP】
 * Character-level White-Box Adversarial Attacks against Transformers via Attachable Subwords Substitution[[PDF](https://arxiv.org/pdf/2210.17004.pdf)][[Code](https://github.com/THU-BPM/CWBA)]
 * （双答案句子攻击问答模型） TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack[[PDF](https://arxiv.org/pdf/2210.15221.pdf)][[Code](https://github.com/caoyu-noob/TASA)]
@@ -72,6 +73,7 @@
 * Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models
 
 * OutFlip: Generating Examples for Unknown Intent Detection with Natural Language Attack
+
 【EMNLP】
 * Achieving Model Robustness through Discrete Adversarial Training[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
 * Multi-granularity Textual Adversarial Attack with Behavior Cloning[[PDF](https://arxiv.org/pdf/2109.04367.pdf)]
@@ -84,6 +86,7 @@
 * Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution[[PDF](https://arxiv.org/pdf/2108.12777.pdf)]
 * On the Transferability of Adversarial Attacks against Neural Text Classifier[[PDF](https://arxiv.org/pdf/2011.08558.pdf)]
 * Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
+
 ### 1.2 神经机器翻译
 #### 2022
 【NAACL】
@@ -123,7 +126,9 @@
 * Defending Pre-trained Language Models from Adversarial Word Substitutions Without Performance Sacrifice[[PDF](https://arxiv.org/pdf/2105.14553.pdf)]
 ## 优化器
 #### 2023
+【ACL】
 * CAME: Confidence-guided Adaptive Memory Efficient Optimization[[PDF](https://arxiv.org/pdf/2307.02047.pdf)][Code](https://github.com/yangluo7/CAME)]
 ## 分类器
 #### 2023
+【ACL】
 * Linear Classifier: An Often-Forgotten Baseline for Text Classification
