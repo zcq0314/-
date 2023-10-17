@@ -43,6 +43,7 @@
 * ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model[[PDF](https://aclanthology.org/2022.naacl-main.125.pdf)]
 * SHARP: Search-Based Adversarial Attack for Structured Prediction
 * Phrase-level Textual Adversarial Attack with Label Preservation
+* Adversarial Text Normalization[[PDF](https://aclanthology.org/2022.naacl-industry.30.pdf)]
 
 #### 2021
 【ACL】
@@ -89,18 +90,33 @@
 * On the Transferability of Adversarial Attacks against Neural Text Classifier[[PDF](https://arxiv.org/pdf/2011.08558.pdf)]
 * Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
 
+【NAACL】
+* Universal Adversarial Attacks with Natural Triggers for Text Classification
+* Contextualized Perturbation for Textual Adversarial Attack
+
 ### 1.2 神经机器翻译
 #### 2022
 【NAACL】
 * Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation[[PDF](https://aclanthology.org/2022.naacl-main.316.pdf)]
 
-## 1.3 对抗攻击的规范和应用
+
+### 1.3 情绪分类
+#### 2021
+【NAACL】
+* Grey-box Adversarial Attack And Defence For Sentiment Classification
+
+## 2、对抗攻击的应用
 #### 2022
 【NAACL】
 * (一句话值一千美元：对推文的对抗性攻击傻瓜股票预测)A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
-* Adversarial Text Normalization[[PDF](https://aclanthology.org/2022.naacl-industry.30.pdf)]
 
-## 1.4 对抗攻击的检测和防御
+
+#### 2021
+【NAACL】
+* Dynamically Disentangling Social Bias from Task-Oriented Representations with Adversarial Attack
+* BBAEG: Towards BERT-based Biomedical Adversarial Example Generation for Text Classification
+
+## 3、对抗攻击的检测和防御
 #### 2022
 【NAACL】
 * （不为小事操心，只为其他事分类： 样本屏蔽保护文本分类器免受对抗性攻击）Don’t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks[[PDF](https://aclanthology.org/2022.naacl-main.195.pdf)]
