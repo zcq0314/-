@@ -33,6 +33,12 @@
 * （双答案句子攻击问答模型） TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack[[PDF](https://arxiv.org/pdf/2210.15221.pdf)][[Code](https://github.com/caoyu-noob/TASA)]
 * Textual Manifold-based Defense Against Natural Language Adversarial Examples[[PDF](https://arxiv.org/pdf/2211.02878.pdf)][[Code](https://github.com/dangne/tmd)]
 * Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP[[PDF](https://arxiv.org/pdf/2210.10683.pdf)]
+
+#### COLING
+* Semantic-Preserving Adversarial Code Comprehension[[PDF](https://aclanthology.org/2022.coling-1.267.pdf)]
+* PARSE: An Efficient Search Method for Black-box Adversarial Text Attacks[[PDF](https://aclanthology.org/2022.coling-1.423.pdf)]
+* PAEG: Phrase-level Adversarial Example Generation for Neural Machine Translation[[PDF](https://aclanthology.org/2022.coling-1.451.pdf)]
+* (最小删除引起的神经机器翻译错误）Rare but Severe Neural Machine Translation Errors Induced by Minimal Deletion: An Empirical Study on Chinese and English[[PDF](https://aclanthology.org/2022.coling-1.459.pdf)]
 ### 2021
 * Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder[[PDF](https://arxiv.org/pdf/2109.06536v1.pdf)]
 * Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble
