@@ -9,6 +9,9 @@
 * White-Box Multi-Objective Adversarial Attack on Dialogue Generation[[PDF](https://arxiv.org/pdf/2305.03655.pdf)]
 * Contrastive Learning with Adversarial Examples for Alleviating Pathology of Language Model[[PDF](https://aclanthology.org/2023.acl-long.358.pdf)]
 
+【AAAI】
+* SSPAttack: A Simple and Sweet Paradigm for Black-Box Hard-Label Textual Adversarial Attack
+
 #### 2022
 【ACL】
 * Adversarial Authorship Attribution for Deobfuscation[[PDF](https://aclanthology.org/2022.acl-long.509.pdf)][[Code](https://github.com/reginazhai/Authorship-Deobfuscation)]
@@ -44,6 +47,9 @@
 * SHARP: Search-Based Adversarial Attack for Structured Prediction
 * Phrase-level Textual Adversarial Attack with Label Preservation
 * Adversarial Text Normalization[[PDF](https://aclanthology.org/2022.naacl-industry.30.pdf)]
+
+【AAAI】
+* Word Level Robustness Enhancement: Fight Perturbation with Perturbation
 
 #### 2021
 【ACL】
@@ -94,6 +100,11 @@
 * Universal Adversarial Attacks with Natural Triggers for Text Classification
 * Contextualized Perturbation for Textual Adversarial Attack
 
+【AAAI】
+* Generating Natural Language Attacks in a Hard Label Black Box Setting
+* （使用快速渐变投影方法对抗基于同义词替换的文本攻击的对抗训练）Adversarial Training with Fast Gradient Projection Method against Synonym Substitution Based Text Attacks
+* （通过自动生成的反事实对文本分类中的虚假相关性进行鲁棒性）Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals
+
 ### 1.2 神经机器翻译
 #### 2022
 【NAACL】
@@ -122,6 +133,11 @@
 * （不为小事操心，只为其他事分类： 样本屏蔽保护文本分类器免受对抗性攻击）Don’t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks[[PDF](https://aclanthology.org/2022.naacl-main.195.pdf)]
 * Residue-Based Natural Language Adversarial Attack Detection[[PDF](https://aclanthology.org/2022.naacl-main.281.pdf)]
 * Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks[[PDF](https://aclanthology.org/2022.findings-naacl.8.pdf)]
+
+【AAAI】
+* Improved Text Classification via Contrastive Adversarial Training
+* KATG: Keyword-Bias-Aware Adversarial Text Generation for Text Classification
+
 ## 4、nlp的可解释性与分析
 #### 2023
 【ACL】
