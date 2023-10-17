@@ -1,7 +1,7 @@
 
 # ACL
 
-## 对抗攻击和鲁棒性
+## 1、对抗攻击和鲁棒性
 #### 2023
 * How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks[[PDF](https://arxiv.org/pdf/2305.15587.pdf)]
 
@@ -83,7 +83,7 @@
 * Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution[[PDF](https://arxiv.org/pdf/2108.12777.pdf)]
 * On the Transferability of Adversarial Attacks against Neural Text Classifier[[PDF](https://arxiv.org/pdf/2011.08558.pdf)]
 * Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
-### 1.1 神经机器翻译
+### 1.2 神经机器翻译
 #### 2022
 【NAACL】
 * Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation[[PDF](https://aclanthology.org/2022.naacl-main.316.pdf)]
