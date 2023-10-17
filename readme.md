@@ -2,7 +2,7 @@
 # ACL
 
 ## 对抗攻击和鲁棒性
-### 2023
+#### 2023
 * How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks[[PDF](https://arxiv.org/pdf/2305.15587.pdf)]
 
 * Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications[[PDF](https://arxiv.org/pdf/2305.06522.pdf)]
@@ -10,7 +10,7 @@
 * White-Box Multi-Objective Adversarial Attack on Dialogue Generation[[PDF](https://arxiv.org/pdf/2305.03655.pdf)]
 * Contrastive Learning with Adversarial Examples for Alleviating Pathology of Language Model[[PDF](https://aclanthology.org/2023.acl-long.358.pdf)]
 
-### 2022
+#### 2022
 * Adversarial Authorship Attribution for Deobfuscation[[PDF](https://aclanthology.org/2022.acl-long.509.pdf)][[Code](https://github.com/reginazhai/Authorship-Deobfuscation)]
 
 * Adversarial Soft Prompt Tuning for Cross-Domain Sentiment Analysis[[PDF](https://aclanthology.org/2022.acl-long.174.pdf)]
@@ -26,22 +26,22 @@
 * SHIELD: Defending Textual Neural Networks against Multiple Black-Box[[PDF](https://aclanthology.org/2022.acl-long.459.pdf)][[Code](https://github.com/lethaiq/shield-defend-adversarial-texts)]
 
 * Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation[[PDF](https://aclanthology.org/2022.acl-long.142.pdf)][[Code](https://github.com/microsoft/ContextualSP)]
-#### EMNLP
+【EMNLP】
 * Character-level White-Box Adversarial Attacks against Transformers via Attachable Subwords Substitution[[PDF](https://arxiv.org/pdf/2210.17004.pdf)][[Code](https://github.com/THU-BPM/CWBA)]
 * （双答案句子攻击问答模型） TASA: Deceiving Question Answering Models by Twin Answer Sentences Attack[[PDF](https://arxiv.org/pdf/2210.15221.pdf)][[Code](https://github.com/caoyu-noob/TASA)]
 * Textual Manifold-based Defense Against Natural Language Adversarial Examples[[PDF](https://arxiv.org/pdf/2211.02878.pdf)][[Code](https://github.com/dangne/tmd)]
 * Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP[[PDF](https://arxiv.org/pdf/2210.10683.pdf)]
 
-#### COLING
+【COLING】
 * Semantic-Preserving Adversarial Code Comprehension[[PDF](https://aclanthology.org/2022.coling-1.267.pdf)]
 * PARSE: An Efficient Search Method for Black-box Adversarial Text Attacks[[PDF](https://aclanthology.org/2022.coling-1.423.pdf)]
 * PAEG: Phrase-level Adversarial Example Generation for Neural Machine Translation[[PDF](https://aclanthology.org/2022.coling-1.451.pdf)]
 * (最小删除引起的神经机器翻译错误）Rare but Severe Neural Machine Translation Errors Induced by Minimal Deletion: An Empirical Study on Chinese and English[[PDF](https://aclanthology.org/2022.coling-1.459.pdf)]
 
-#### NAACL
+【NAACL】
 * ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model[[PDF](https://aclanthology.org/2022.naacl-main.125.pdf)]
 
-### 2021
+#### 2021
 * Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder[[PDF](https://arxiv.org/pdf/2109.06536v1.pdf)]
 * Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble
 
@@ -71,7 +71,7 @@
 * Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models
 
 * OutFlip: Generating Examples for Unknown Intent Detection with Natural Language Attack
-#### EMNLP
+【EMNLP】
 * Achieving Model Robustness through Discrete Adversarial Training[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
 * Multi-granularity Textual Adversarial Attack with Behavior Cloning[[PDF](https://arxiv.org/pdf/2109.04367.pdf)]
 * （评估神经语言模型对输入干扰的鲁棒性）Evaluating the Robustness of Neural Language Models to Input Perturbations[[PDF](https://arxiv.org/pdf/2109.04367.pdf)]
@@ -90,12 +90,12 @@
 
 ## 2、对抗攻击的应用
 #### 2022
-##### NAACL
+【NAACL】
 * (一句话值一千美元：对推文的对抗性攻击傻瓜股票预测)A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
 
 ## 3、对抗攻击的检测和防御
 #### 2022
-##### NAACL
+【NAACL】
 * （不为小事操心，只为其他事分类： 样本屏蔽保护文本分类器免受对抗性攻击）Don’t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks[[PDF](https://aclanthology.org/2022.naacl-main.195.pdf)]
 * Residue-Based Natural Language Adversarial Attack Detection[[PDF](https://aclanthology.org/2022.naacl-main.281.pdf)]
 ## 4、nlp的可解释性与分析
