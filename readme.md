@@ -1,9 +1,4 @@
-@[toc]
-## 1、对抗攻击和鲁棒性(#对抗攻击和鲁棒性)
-### 1.1 2023
-### 1.2 2022
-### 1.3 2021
-[对抗攻击和鲁棒性](#对抗攻击和鲁棒性)
+
 # ACL
 
 ## 对抗攻击和鲁棒性
@@ -42,6 +37,10 @@
 * PARSE: An Efficient Search Method for Black-box Adversarial Text Attacks[[PDF](https://aclanthology.org/2022.coling-1.423.pdf)]
 * PAEG: Phrase-level Adversarial Example Generation for Neural Machine Translation[[PDF](https://aclanthology.org/2022.coling-1.451.pdf)]
 * (最小删除引起的神经机器翻译错误）Rare but Severe Neural Machine Translation Errors Induced by Minimal Deletion: An Empirical Study on Chinese and English[[PDF](https://aclanthology.org/2022.coling-1.459.pdf)]
+
+#### NAACL
+* ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model[[PDF](https://aclanthology.org/2022.naacl-main.125.pdf)]
+
 ### 2021
 * Improving Gradient-based Adversarial Training for Text Classification by Contrastive Learning and Auto-Encoder[[PDF](https://arxiv.org/pdf/2109.06536v1.pdf)]
 * Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble
@@ -84,32 +83,41 @@
 * Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution[[PDF](https://arxiv.org/pdf/2108.12777.pdf)]
 * On the Transferability of Adversarial Attacks against Neural Text Classifier[[PDF](https://arxiv.org/pdf/2011.08558.pdf)]
 * Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
+### 1.1 神经机器翻译
+#### 2022
+【NAACL】
+* Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation[[PDF](https://aclanthology.org/2022.naacl-main.316.pdf)]
 
-## 对抗攻击的应用
-### 2022
-#### NAACL
+## 2、对抗攻击的应用
+#### 2022
+##### NAACL
 * (一句话值一千美元：对推文的对抗性攻击傻瓜股票预测)A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction[[PDF](https://arxiv.org/pdf/2109.04385.pdf)]
-* 
-## nlp的可解释性与分析
-### 2023
+
+## 3、对抗攻击的检测和防御
+#### 2022
+##### NAACL
+* （不为小事操心，只为其他事分类： 样本屏蔽保护文本分类器免受对抗性攻击）Don’t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks[[PDF](https://aclanthology.org/2022.naacl-main.195.pdf)]
+* Residue-Based Natural Language Adversarial Attack Detection[[PDF](https://aclanthology.org/2022.naacl-main.281.pdf)]
+## 4、nlp的可解释性与分析
+#### 2023
 * Entity Tracking in Language Models
-## 鲁棒性提高公平性
-### 2021
+## 5、鲁棒性提高公平性
+#### 2021
 * Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification[[PDF](https://arxiv.org/pdf/2106.10826.pdf)]
 
 ## 中文
-### 2021
+#### 2021
 * Correcting Chinese Spelling Errors with Phonetic Pre-training
 * Dynamic Connected Networks for Chinese Spelling Check
 ## 关于语言模型的攻防
-### 2023
+#### 2023
 * Language model acceptability judgements are not always robust to context[[PDF]()]
-### 2021
+#### 2021
 * BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks[[PDF](https://arxiv.org/pdf/2106.01452.pdf)]
 * Defending Pre-trained Language Models from Adversarial Word Substitutions Without Performance Sacrifice[[PDF](https://arxiv.org/pdf/2105.14553.pdf)]
 ## 优化器
-### 2023
+#### 2023
 * CAME: Confidence-guided Adaptive Memory Efficient Optimization[[PDF](https://arxiv.org/pdf/2307.02047.pdf)][Code](https://github.com/yangluo7/CAME)]
 ## 分类器
-### 2023
+#### 2023
 * Linear Classifier: An Often-Forgotten Baseline for Text Classification
