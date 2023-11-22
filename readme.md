@@ -5,7 +5,7 @@
 * How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks[[PDF](https://arxiv.org/pdf/2305.15587.pdf)]
 
 * Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications[[PDF](https://arxiv.org/pdf/2305.06522.pdf)]
-* Text Adversarial Purification as Defense against Adversarial Attacks[[PDF](https://arxiv.org/pdf/2203.14207.pdf)]
+* Text Adversarial Purification as Defense against Adversarial Attacks[[PDF](https://arxiv.org/pdf/2203.14207.pdf)] （防御）
 * White-Box Multi-Objective Adversarial Attack on Dialogue Generation[[PDF](https://arxiv.org/pdf/2305.03655.pdf)]
 * Contrastive Learning with Adversarial Examples for Alleviating Pathology of Language Model[[PDF](https://aclanthology.org/2023.acl-long.358.pdf)]
 
