@@ -10,7 +10,7 @@
 * Contrastive Learning with Adversarial Examples for Alleviating Pathology of Language Model[[PDF](https://aclanthology.org/2023.acl-long.358.pdf)]
 
 【AAAI】
-* SSPAttack: A Simple and Sweet Paradigm for Black-Box Hard-Label Textual Adversarial Attack
+* SSPAttack: A Simple and Sweet Paradigm for Black-Box Hard-Label Textual Adversarial Attack （同义词替换）
 
 #### 2022
 【ACL】
